@@ -1,7 +1,5 @@
 <!-- PROJECT -->
-<br />
 <h2 align="center">BTC Dollars Balance Accounts</h2>
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -55,9 +53,10 @@ npm install
 ```sh
 npm run start
 ```
+_For more details, please see the [Project](https://github.com/arturoliduena/BTC-Dollars-balance-accounts/tree/master/api)_
 
-in another terminal /BTC-Dollars-balance-accounts
 #### frontend
+in another terminal /BTC-Dollars-balance-accounts
 3. Go into the web-app 
 ```sh
 cd web-app
@@ -70,4 +69,4 @@ npm install
 ```sh
 npm run start
 ```
-
+_For more details, please see the [Project](https://github.com/arturoliduena/BTC-Dollars-balance-accounts/tree/master/web-app)_
