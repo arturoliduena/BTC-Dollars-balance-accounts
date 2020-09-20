@@ -1,0 +1,46 @@
+.app-accounts {
+  padding: 14px;
+}
+
+.acounts-table-head {
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+}
+
+.accounts-table-body {
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+}
+
+.table-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 14px;
+  border-top: 1px solid black;
+}
+
+.page-controller {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.arrow-icon {
+  width: 20px;
+  height: 20px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.arrow-icon:hover {
+  background-color: #d9ffe4;
+}
+
+.page-controller > span {
+  font-weight: bold;
+  padding: 0px 10px;
+}
+
+.table-footer > span {
+  font-weight: bold;
+}

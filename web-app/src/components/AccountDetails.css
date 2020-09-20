@@ -1,0 +1,18 @@
+.account-details-table-head {
+  grid-template-columns: repeat(6, 1fr);
+}
+
+.account-details-table-body {
+  grid-template-columns: repeat(6, 1fr);
+}
+
+.app-accounts {
+  padding: 14px;
+}
+
+.account-details-container {
+  padding: 14px;
+}
+.account-details {
+  background-color: white;
+}

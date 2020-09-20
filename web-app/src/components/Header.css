@@ -1,0 +1,54 @@
+.App-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 12px;
+}
+
+.header-exchange-rate {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  color: #424242;
+}
+
+.exchange-rate-value {
+  padding: 5px;
+  min-width: 100px;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.header-menu {
+  background: #00b086;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px;
+}
+
+.menu-icon {
+  height: 20px;
+  width: 20px;
+}
+
+.btc-icon {
+  height: 28px;
+  width: 28px;
+  padding: 6px;
+}
+
+.bell-icon {
+  height: 20px;
+  width: 20px;
+}
+
+.BTC-lower {
+  background-color: red;
+}
+
+.BTC-higher {
+  background-color: green;
+}
