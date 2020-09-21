@@ -65,7 +65,11 @@ cd web-app
 ```sh
 npm install
 ```
-5. run the project
+5. Set environment,rename the .env.example file to .env 
+```sh
+mb .env.example .env
+```
+6. run the project
 ```sh
 npm run start
 ```
