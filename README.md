@@ -67,7 +67,7 @@ npm install
 ```
 5. Set environment,rename the .env.example file to .env 
 ```sh
-mb .env.example .env
+mv .env.example .env
 ```
 6. run the project
 ```sh
